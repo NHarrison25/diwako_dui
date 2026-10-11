@@ -1,4 +1,4 @@
-name = "DUI - Squad Radar {version}";
+name = "DUI - Squad Radar {version} (Harrison's Edit)";
 picture = "logolarge.paa";
 actionName = "Website";
 action = "https://github.com/diwako/diwako_dui";
