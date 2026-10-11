@@ -1,3 +1,3 @@
 protocol = 1;
-publishedid = 1638341685;
-name = "DUI - Squad Radar";
+publishedid = 3817500218;
+name = DUI Squad Radar (Harrison's Edit);

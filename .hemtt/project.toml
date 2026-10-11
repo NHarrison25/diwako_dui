@@ -1,4 +1,4 @@
-name = "DUI Squad Radar"
+name = "DUI Squad Radar (Harrison's Edit)"
 prefix = "diwako_dui"
 author = "Diwako"
 mainprefix = "z"
@@ -28,7 +28,7 @@ parameters = ["-world=empty"]
 mission = "dui.vr"
 
 [signing]
-private_key_hash = "49d88a0d41217ee098923074df25c520faad099"
+private_key_hash = "5d52659cd9b32538260686444a668355f9263416"
 
 [hemtt.release]
 folder = "diwako_dui"
@@ -41,3 +41,5 @@ enabled = true
 options.ignore = [
     "ACRE_IS_SPECTATOR"
 ]
+
+
