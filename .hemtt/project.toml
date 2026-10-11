@@ -28,7 +28,7 @@ parameters = ["-world=empty"]
 mission = "dui.vr"
 
 [signing]
-private_key_hash = "5d52659cd9b32538260686444a668355f9263416"
+private_key_hash = "50d67edb33107c599450e35ee8cee1af047eb4b7"
 
 [hemtt.release]
 folder = "diwako_dui"
