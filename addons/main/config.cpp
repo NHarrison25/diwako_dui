@@ -18,3 +18,4 @@ class CfgPatches {
 #include "CfgColorStyles.hpp"
 #include "CfgIconStyles.hpp"
 #include "CfgSounds.hpp"
+#include "Cfg3DEN.hpp"
